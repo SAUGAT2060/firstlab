@@ -1,0 +1,27 @@
+body{
+   h1
+    {color:brown;
+        text-align:center;
+    }
+    img{
+        width: 600;
+        
+        height: 400;
+        display: block;
+        margin: auto;
+    
+        
+}
+h2 {
+    color:brown;
+    text-align:center;
+}
+.p1
+{
+    text-align: center;
+}
+#secpara
+{
+    text-align: center;
+}
+}
